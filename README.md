@@ -9,7 +9,7 @@ This is a very basic visual introduction to the concepts behind a public / priva
 Get the code:
 
 ```
-git clone https://github.com/anders94/public-private-key-demo.git
+git clone https://github.com/dayalmukati/public-private-key-demo.git
 ```
 
 Install dependencies:
@@ -27,7 +27,7 @@ Run the server:
 Point a web browser at the demo:
 
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## Send Thanks
